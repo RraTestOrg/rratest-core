@@ -1,0 +1,4 @@
+rratest-core
+============
+
+Core library
